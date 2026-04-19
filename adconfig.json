@@ -6,5 +6,9 @@
 	"7630277708746442773":{
 	"interstitialAdOpen":false,
 	 "chongfuTime":30000
+	},
+	"7630277708746442773":{
+	"interstitialAdOpen":true,
+	 "chongfuTime":30000
 	}
 }
